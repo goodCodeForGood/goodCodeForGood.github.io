@@ -1,3 +1,4 @@
 # goodCodeForGood.github.io
 
-This is the repo for my portfolio website (in progress).
+Hi there! Welcome to my portfolio website's repository!
+(Work in progress).
